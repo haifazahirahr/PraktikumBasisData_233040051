@@ -4,5 +4,5 @@ WHERE mahasiswa_id IN (
 
 SELECT mahasiswa_id
 FROM dbo.dpp_mahasiswa
-WHERE status_pembayaran = ’Lunas’
+WHERE status_pembayaran = 'Lunas'
 );
