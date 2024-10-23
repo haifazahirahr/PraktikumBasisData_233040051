@@ -1,2 +1,2 @@
 INSERT INTO [dbo].[Jurusan]
-VALUES (1, 'PBD'), (2, 'ITW'), (3, 'MATIF'), (4, 'RPL'), (5, 'ALPRO');
+VALUES (1, 'INFORMATIKA'), (2, 'MANAGEMENT'), (3, 'HUKUM'), (4, 'KEDOKTERAN'), (5, 'EKONOMI');
